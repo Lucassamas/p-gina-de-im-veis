@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+
+.body{
+    border: none;
+    align-items: center;
+    
+}
